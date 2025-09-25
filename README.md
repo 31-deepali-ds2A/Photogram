@@ -36,7 +36,7 @@
     nodemon index.js
     ```
 
-4. Open your browser and navigate to `http://localhost:8080` to see the application running.
+4. Open your browser and navigate to `http://localhost:5000` to see the application running.
 
 
 
